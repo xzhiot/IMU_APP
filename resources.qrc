@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/fragmentShader.fsh</file>
+        <file>shaders/vertexShader.vsh</file>
+        <file>icons/bits.svg</file>
+        <file>icons/imu.svg</file>
+        <file>icons/setup.svg</file>
+        <file>icons/wave.svg</file>
+        <file>icons/imu.png</file>
+        <file>icons/imu.ico</file>
+        <file>icons/modbus.svg</file>
+        <file>icons/modbusslv.svg</file>
+    </qresource>
+</RCC>
